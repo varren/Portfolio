@@ -1,0 +1,224 @@
+/* Desktop Layout */
+
+
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.navbar-inverse .navbar-brand {
+   font-size: 20px;
+}
+.header-text {
+   color: #fff;
+   font-size: 60px;
+   margin-top: 350px;
+   text-align: center;
+}
+.header-text p span#typer{
+   font-size: 18px !important;
+}
+.about-img img {
+   width: 100%;
+   padding-top: 30px;
+   padding-bottom: 40px;
+}
+.service-wrap {
+  border: 1px solid #000;
+  padding: 30px 10px 20px;
+  margin-bottom: 10px;
+}
+.contact-form{
+	margin-bottom:40px;
+}
+}
+
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+.navbar-toggle {
+   background-color: black;
+}
+.navbar-toggle .icon-bar {
+   background: #fff;
+}
+.navbar-brand > img {
+   margin-top: 8px;
+   width: 100%;
+}
+.home-header {
+   background:#393939;
+   height: auto;
+   padding-bottom: 80px;
+}
+.header-text p span#typer{
+   font-family: 'Roboto', sans-serif;
+   font-size: 18px !important;
+   font-weight: 400;
+   color: #fff;
+   text-align:center;
+   margin-bottom: 50px;
+   display:block;
+}
+.navbar-inverse {
+   background-color: #121111;
+   border-color: #080808;
+}
+.about-img img {
+   padding-top: 30px;
+   padding-bottom: 40px;
+   width: 100%;
+}
+.about-img .social-icon a i {
+   margin-bottom: 15px;
+}
+.service-heading hr {
+   padding-bottom: 30px;
+}
+.portfolio-heading hr {
+   padding-bottom: 20px;
+}
+.about-heading hr {
+   padding-bottom: 30px;
+}
+.contact-heading hr {
+   padding-bottom: 40px;
+}
+.filter-button-wrapper {
+   margin-bottom: 30px;
+}
+.filter-button-group ul li {
+   background: none;
+   color: #062033;
+   display: inline;
+   float: left;
+   font-family: "Signika",sans-serif;
+   font-size: 10px;
+   font-weight: 600;
+   margin-bottom: 7px;
+   margin-right: 7px;
+   padding: 10px 25px;
+   transition: all 1s ease 0s;
+}
+.filter-button-group li.active {
+   background: #f30336;
+   color: #fff;
+   font-size: 10px;
+   font-family: 'Signika', sans-serif;
+   font-weight: 400;
+}
+.members-image {
+  position: relative;
+  margin-bottom: 10px;
+}
+.contact-section {
+  background: #fff none repeat scroll 0 0;
+  padding-bottom: 60px;
+  padding-top: 50px;
+}
+.contact-map #map {
+  border: medium none;
+  height: 300px;
+  width: 100%;
+  margin-bottom: 40px;
+}
+.footer-text .social-icon a i {
+  font-size: 11px;
+  margin-right: 6px;
+  padding: 10px;
+}
+.footer-text .social-icon a i:hover {
+  font-size: 11px;
+  margin-right: 6px;
+  padding: 10px;
+}
+.service-wrap {
+   margin-bottom: 10px;
+}
+
+}
+
+/* Wide Mobile Layout: */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.navbar-toggle {
+   background-color: black;
+}
+.navbar-toggle .icon-bar {
+   background: #fff;
+}
+.navbar-brand > img {
+   margin-top: 18px;
+   width: 100%;
+}
+.navbar-inverse {
+   background-color: #121111;
+   border-color: #080808;
+}
+.home-header {
+   height: auto;
+   padding-bottom: 80px;
+}
+.header-text p span#typer{
+   font-family: 'Roboto', sans-serif;
+   font-size: 18px !important;
+   font-weight: 400;
+   color: #fff;
+   text-align:center;
+   margin-bottom: 50px;
+   display:block;
+}
+.about-img img {
+   padding-top: 30px;
+   padding-bottom: 40px;
+   width: 100%;
+}
+.about-img .social-icon a i {
+   margin-bottom: 15px;
+}
+.service-heading hr {
+   padding-bottom: 30px;
+}
+.service-wrap {
+   margin-bottom: 10px;
+}
+.portfolio-heading hr {
+   padding-bottom: 20px;
+}
+.filter-button-group ul li {
+   background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+   color: #444;
+   display: inline-block;
+   font-family: "Signika",sans-serif;
+   font-size: 12px;
+   font-weight: 400;
+   padding: 10px 40px;
+   transition: all 1s ease 0s;
+}
+.filter-button-group li.active {
+   background: #f30336;
+   color: #fff;
+   font-size: 12px;
+   font-family: 'Signika', sans-serif;
+   font-weight: 400;
+}
+.about-heading hr {
+   padding-bottom: 30px;
+}
+.contact-heading hr {
+   padding-bottom: 40px;
+}
+.team-wrapper{
+	display:block;
+	margin:0px auto;
+}
+.contact-section {
+  background: #fff none repeat scroll 0 0;
+  padding-bottom: 60px;
+  padding-top: 50px;
+}
+.contact-map #map {
+  border: medium none;
+  height: 300px;
+  width: 100%;
+  margin-bottom: 40px;
+}
+}

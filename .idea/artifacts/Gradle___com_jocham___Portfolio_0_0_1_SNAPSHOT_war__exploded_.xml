@@ -1,0 +1,127 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Gradle : com.jocham : Portfolio-0.0.1-SNAPSHOT.war (exploded)">
+    <output-path>$PROJECT_DIR$/build/libs/exploded/Portfolio-0.0.1-SNAPSHOT.war</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$">
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQoNCg==</manifest>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/build/libs/exploded/Portfolio-0.0.1-SNAPSHOT.war/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="Portfolio_main/web/Web Gradle : Portfolio-0.0.1-SNAPSHOT.war" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Portfolio_main" />
+          <element id="dir-copy" path="$PROJECT_DIR$/out/production/resources" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Gradle: org.springframework.boot:spring-boot-starter-batch:1.5.7.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework.boot:spring-boot-starter-data-jpa:1.5.7.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework.session:spring-session:1.3.1.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework.boot:spring-boot-starter-social-linkedin:1.5.7.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework.boot:spring-boot-starter-validation:1.5.7.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework.boot:spring-boot-starter-web:1.5.7.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.thymeleaf:thymeleaf-spring4:2.1.5.RELEASE" />
+          <element id="library" level="project" name="Gradle: nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect:1.4.0" />
+          <element id="library" level="project" name="Gradle: org.springframework.boot:spring-boot-starter:1.5.7.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework.boot:spring-boot-starter-jdbc:1.5.7.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework.batch:spring-batch-core:3.0.8.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework.boot:spring-boot-starter-aop:1.5.7.RELEASE" />
+          <element id="library" level="project" name="Gradle: com.h2database:h2:1.4.196" />
+          <element id="library" level="project" name="Gradle: mysql:mysql-connector-java:5.1.44" />
+          <element id="library" level="project" name="Gradle: org.hibernate:hibernate-core:5.0.12.Final" />
+          <element id="library" level="project" name="Gradle: org.hibernate:hibernate-entitymanager:5.0.12.Final" />
+          <element id="library" level="project" name="Gradle: javax.transaction:javax.transaction-api:1.2" />
+          <element id="library" level="project" name="Gradle: org.springframework.data:spring-data-jpa:1.11.7.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-aspects:4.3.11.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework.social:spring-social-config:1.1.4.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework.social:spring-social-core:1.1.4.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework.social:spring-social-web:1.1.4.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework.social:spring-social-linkedin:1.0.2.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.hibernate:hibernate-validator:5.3.5.Final" />
+          <element id="library" level="project" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.8.10" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-web:4.3.11.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-webmvc:4.3.11.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.thymeleaf:thymeleaf:2.1.5.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.slf4j:slf4j-api:1.7.25" />
+          <element id="library" level="project" name="Gradle: org.codehaus.groovy:groovy:2.4.12" />
+          <element id="library" level="project" name="Gradle: org.springframework.boot:spring-boot:1.5.7.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework.boot:spring-boot-autoconfigure:1.5.7.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework.boot:spring-boot-starter-logging:1.5.7.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-core:4.3.11.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.yaml:snakeyaml:1.17" />
+          <element id="library" level="project" name="Gradle: org.apache.tomcat:tomcat-jdbc:8.5.20" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-jdbc:4.3.11.RELEASE" />
+          <element id="library" level="project" name="Gradle: com.ibm.jbatch:com.ibm.jbatch-tck-spi:1.0" />
+          <element id="library" level="project" name="Gradle: com.thoughtworks.xstream:xstream:1.4.7" />
+          <element id="library" level="project" name="Gradle: org.codehaus.jettison:jettison:1.2" />
+          <element id="library" level="project" name="Gradle: org.springframework.batch:spring-batch-infrastructure:3.0.8.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-aop:4.3.11.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-beans:4.3.11.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-context:4.3.11.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-tx:4.3.11.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.aspectj:aspectjweaver:1.8.10" />
+          <element id="library" level="project" name="Gradle: org.jboss.logging:jboss-logging:3.3.1.Final" />
+          <element id="library" level="project" name="Gradle: org.hibernate.javax.persistence:hibernate-jpa-2.1-api:1.0.0.Final" />
+          <element id="library" level="project" name="Gradle: org.javassist:javassist:3.21.0-GA" />
+          <element id="library" level="project" name="Gradle: antlr:antlr:2.7.7" />
+          <element id="library" level="project" name="Gradle: org.jboss:jandex:2.0.0.Final" />
+          <element id="library" level="project" name="Gradle: dom4j:dom4j:1.6.1" />
+          <element id="library" level="project" name="Gradle: org.hibernate.common:hibernate-commons-annotations:5.0.1.Final" />
+          <element id="library" level="project" name="Gradle: org.springframework.data:spring-data-commons:1.13.7.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-orm:4.3.11.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.slf4j:jcl-over-slf4j:1.7.25" />
+          <element id="library" level="project" name="Gradle: javax.inject:javax.inject:1" />
+          <element id="library" level="project" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.8.10" />
+          <element id="library" level="project" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.8.0" />
+          <element id="library" level="project" name="Gradle: javax.validation:validation-api:1.1.0.Final" />
+          <element id="library" level="project" name="Gradle: com.fasterxml:classmate:1.3.4" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-expression:4.3.11.RELEASE" />
+          <element id="library" level="project" name="Gradle: ognl:ognl:3.0.8" />
+          <element id="library" level="project" name="Gradle: org.unbescape:unbescape:1.1.0.RELEASE" />
+          <element id="library" level="project" name="Gradle: ch.qos.logback:logback-classic:1.1.11" />
+          <element id="library" level="project" name="Gradle: org.slf4j:jul-to-slf4j:1.7.25" />
+          <element id="library" level="project" name="Gradle: org.slf4j:log4j-over-slf4j:1.7.25" />
+          <element id="library" level="project" name="Gradle: org.apache.tomcat:tomcat-juli:8.5.20" />
+          <element id="library" level="project" name="Gradle: javax.batch:javax.batch-api:1.0" />
+          <element id="library" level="project" name="Gradle: xmlpull:xmlpull:1.1.3.1" />
+          <element id="library" level="project" name="Gradle: xpp3:xpp3_min:1.1.4c" />
+          <element id="library" level="project" name="Gradle: org.springframework.retry:spring-retry:1.2.1.RELEASE" />
+          <element id="library" level="project" name="Gradle: ch.qos.logback:logback-core:1.1.11" />
+          <element id="library" level="project" name="Gradle: javax.servlet:javax.servlet-api:3.1.0" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-jetty/1.5.7.RELEASE/a2864d0a6cd7fff55fb27b66933c26544b3bfaf4/spring-boot-starter-jetty-1.5.7.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-actuator/1.5.7.RELEASE/c8058080955524edbbacda602f25d1c5fdf2a3a9/spring-boot-starter-actuator-1.5.7.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-servlets/9.4.6.v20170531/5adddf5a90f8be30eadf5ca92ae6ac5ffdab54c3/jetty-servlets-9.4.6.v20170531.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-webapp/9.4.6.v20170531/3e64618f88061ecd5538e6092f44e7410609e41c/jetty-webapp-9.4.6.v20170531.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-server/9.4.6.v20170531/3df260d52e941345ad40498bb23307ec3e9c2683/websocket-server-9.4.6.v20170531.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/javax-websocket-server-impl/9.4.6.v20170531/df28c3f3347bca9425811843196cebae3e66ce20/javax-websocket-server-impl-9.4.6.v20170531.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mortbay.jasper/apache-el/8.0.33/1b8fa2179b3937cada939317bb135815e79c0ac2/apache-el-8.0.33.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-actuator/1.5.7.RELEASE/ff3124e2359be5e6c0d9cc501bf214413a329fee/spring-boot-actuator-1.5.7.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-continuation/9.4.6.v20170531/7a3e4ec4d2b7d629707d8e3107bb5ee31f7d2158/jetty-continuation-9.4.6.v20170531.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-http/9.4.6.v20170531/6c2dd034fc4128ea65f2d0199473cbfb80aeb428/jetty-http-9.4.6.v20170531.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-util/9.4.6.v20170531/78628ec5cfafbb5b8085342322515c65fadfa1cc/jetty-util-9.4.6.v20170531.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-io/9.4.6.v20170531/69cdaaac75739eff9ccb4c61f87e4fa3ba280f9/jetty-io-9.4.6.v20170531.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-xml/9.4.6.v20170531/25818a656163364b89966fbfdc6f43a8d8b65d2a/jetty-xml-9.4.6.v20170531.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-servlet/9.4.6.v20170531/7d302b454433ee1b9799761c23d0323542f2525b/jetty-servlet-9.4.6.v20170531.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-common/9.4.6.v20170531/32ddd92bdb1b9351369b32d770667706c1a7fb67/websocket-common-9.4.6.v20170531.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-client/9.4.6.v20170531/7abf96c2a2afa5966fea35375fc0280e1365b8eb/websocket-client-9.4.6.v20170531.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-servlet/9.4.6.v20170531/6f4f1a91e61cc15060ea0beecc7a5d035c1d65f6/websocket-servlet-9.4.6.v20170531.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-annotations/9.4.6.v20170531/6ccc93bb46c6014c7b383efeb14c1233ecb081d9/jetty-annotations-9.4.6.v20170531.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/javax-websocket-client-impl/9.4.6.v20170531/89157efdf0a2d305276b622e51722275eff28060/javax-websocket-client-impl-9.4.6.v20170531.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.websocket/javax.websocket-api/1.0/fc843b649d4a1dcb0497669d262befa3918c7ba8/javax.websocket-api-1.0.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-security/9.4.6.v20170531/6c4cdac99130d887abc6fa6645adcd033f763d02/jetty-security-9.4.6.v20170531.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-api/9.4.6.v20170531/67e88613850da0aa0874e9b6bc2d7dd812968346/websocket-api-9.4.6.v20170531.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-client/9.4.6.v20170531/ec4139632f338738124e1d77824e3b73be1c6f5f/jetty-client-9.4.6.v20170531.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-plus/9.4.6.v20170531/8b6922eb2746ffe801457d400de9e99e21c491b5/jetty-plus-9.4.6.v20170531.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/5.1/5ef31c4fe953b1fd00b8a88fa1d6820e8785bb45/asm-5.1.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-commons/5.1/25d8a575034dd9cfcb375a39b5334f0ba9c8474e/asm-commons-5.1.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-server/9.4.6.v20170531/afda653f00267fb8b501cafd1cf5cdd1615602a2/jetty-server-9.4.6.v20170531.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/5.1/87b38c12a0ea645791ead9d3e74ae5268d1d6c34/asm-tree-5.1.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
