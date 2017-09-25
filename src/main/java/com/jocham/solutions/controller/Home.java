@@ -11,7 +11,7 @@ public class Home {
 	@RequestMapping(value = "/", method =  RequestMethod.GET)
 	public ModelAndView index(){
 		
-		ModelAndView modelAndView = new ModelAndView("/index.html");
+		ModelAndView modelAndView = new ModelAndView("index");
 		
 		return modelAndView;
 	}
